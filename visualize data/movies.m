@@ -1,7 +1,7 @@
 clear; close all; tic;
 
 %% PARAMETERS
-N = 10; % the initial number of circles in the system
+N = 100; % the initial number of circles in the system
 SEED = 1; % the seed that was used as the random number generator
 COLOR = 1; % 1 for the blue color scheme; 2 for the red color scheme
 tSTART = -2; % the start of the movie on a logaritmic scale (10^-2 = 0.01)
