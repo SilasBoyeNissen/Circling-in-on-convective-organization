@@ -5,7 +5,7 @@ published in Geophysical Research Letters (2019)
 
 Available online: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL082092
 
-##############################################################################################################################
+###################################################################################
 
 This is the semi-analytical model written in MATLAB. 
 
