@@ -1,4 +1,4 @@
-function NB = neighbor(G, S)
+function NB = neighbor(G, S) % finds the neighborhoods in the system for this generation
 lav = find(S(:, 4) == G);
 Sg = S(lav, :);
 if Sg(1, 4) == 1

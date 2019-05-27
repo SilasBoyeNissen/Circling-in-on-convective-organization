@@ -1,4 +1,4 @@
-function T = cp3cols(Sg, Sr)
+function T = cp3cols(Sg, Sr) % finds the location and the distance to the new circle
 T = NaN(1, 3);
 [m, k] = mink(Sr(:, 3), 3);
 Sr = Sr(k, :);
