@@ -2,7 +2,7 @@ clear; close all;
 
 %% PARAMETERS
 N = 100; % the initial number of circles in the system
-SEED = 1; % the seed that was used as the random number generator
+SEED = 1; % the seed to be used as the random number generator
 LIMIT = 1000; % an upper bound on the number of generations to run
 
 %% SCRIPT
