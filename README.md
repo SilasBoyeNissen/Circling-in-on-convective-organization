@@ -1,8 +1,8 @@
 "Circling in on convective organization"
 
-by Jan O. Haerter, Steven J. Böing, Olga Henneberg, and Silas Boye Nissen
-
 published in Geophysical Research Letters (2019)
+
+by Jan O. Haerter, Steven J. Böing, Olga Henneberg, and Silas Boye Nissen
 
 Available online: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL082092
 
