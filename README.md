@@ -1,9 +1,17 @@
-The semi-analytical model is written in MATLAB. 
+"Circling in on convective organization"
+
+by Jan O. Haerter, Steven J. Böing, Olga Henneberg, and Silas Boye Nissen
+published in Geophysical Research Letters (2019)
+
+Available online: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2019GL082092
+
+##############################################################################################################################
+
+This is the semi-analytical model written in MATLAB. 
 
 Here you find a folder to generate data, and a folder to visualize data.
 The generated data is saved in the folder 'generated mat-files',
 and the visualized data is saved in the folder 'visualized movies'.
+Three example files are already generated and visualized.
 
-The only input parameter is the initial number of circles N.
-
-One small example file (N=100) is already generated and visualized.
+For questions please contact silas@nbi.ku.dk.
