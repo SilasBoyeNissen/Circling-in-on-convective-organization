@@ -7,7 +7,7 @@ LIMIT = 1000; % an upper bound on the number of generations to run
 
 %% SCRIPT
 rng(SEED); % set the random number generator
-S = multiply([rand(N, 2) zeros(N, 1) ones(N, 1) (1:4:4*N)']); % the system: [X-position Y-position Radius Generation Replicas]. Four replicas are made as periodic boundary conditions.
+S = multiply([rand(N, 2) zeros(N, 1) ones(N, 1) (1:4:4*N)']); % the system: [X-position Y-position Radius Generation Replicas]. Three replicas are made as periodic boundary conditions.
 for G = 1:LIMIT % generations to run
     tic; % start a timer
     if any(S(:, 4) == G) % only if any circles of that generation are present in the system
